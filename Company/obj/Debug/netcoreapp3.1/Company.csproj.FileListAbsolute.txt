@@ -1,0 +1,13 @@
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.exe
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.dll
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\bin\Debug\netcoreapp3.1\Company.pdb
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.dll
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.pdb
+D:\2021-Semestre 1\ARQUI SOFT\Company\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache
