@@ -39,11 +39,13 @@ namespace Company
             alex.Name = "Alex";
             alex.Gender = "Male";
             alex.PresentYourSelf();
+            juan.ReceiveSalary();
             alex.Work();
 
             Auditor sandra = new Auditor();
             sandra.Name = "Sandra";
             sandra.Gender = "Female";
+            sandra.ReceiveSalary();
             sandra.PresentYourSelf();
 
              
@@ -53,16 +55,21 @@ namespace Company
             CEO pedro = new CEO();
             pedro.Name = "Pedro";
             pedro.Gender = "Male";
+            pedro.ReceiveSalary();
+            pedro.PresentYourSelf();
             pedro.YellAtSomeone();
 
             DepartmentDirector maria = new DepartmentDirector();
             maria.Name = "Maria";
             maria.Gender = "Female";
+            maria.ReceiveSalary();
+            maria.PresentYourSelf();
             maria.CongratulateSomeone();
 
             ICompanyStaff camila = new DepartmentDirector();
             camila.Name = "Camila";
             camila.Gender = "Female";
+            camila.ReceiveSalary();
             camila.PresentYourSelf();
 
             Console.WriteLine();
